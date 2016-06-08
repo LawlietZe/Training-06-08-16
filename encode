@@ -1,0 +1,909 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="gb2312">
+<meta name="baidu-site-verification" content="chUo5NXqY3" />
+    <meta name="robots" content="all">
+    <meta name="author" content="Tencent-TGideas">
+    <meta name="Copyright" content="Tencent">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="Keywords" content="冒险岛2,冒险岛2官网,冒险岛2官方网站,腾讯冒险岛2,腾讯冒险岛2官网,冒险岛2下载,冒险岛2活动,冒险岛,冒险岛第二部,冒险岛2客户端下载,方块网游,冒险岛2论坛,冒险岛2社区" />
+<meta name="Description" content="《冒险岛2》官方网站，是腾讯旗下全新网游大作，延续了《冒险岛》的经典游戏品牌并融入沙盒玩法，是一款拥有萌爆的可爱画面、创新的房屋系统、自由丰富的DIY系统及多种小游戏玩法的休闲网游。" />
+    <title>冒险岛2-官方网站-腾讯游戏-冒险这是我们的世界！</title>
+    <script>var d0 = new Date(), timePoints = [];</script>
+    <!--页面设计：ejin | 页面制作：anshao | 创建：2016-03-15 | 团队博客：http://tgideas.qq.com/ -->
+    <link rel="stylesheet" type="text/css" href="index.css" media="all"></head>
+<body>
+    <style>
+    /*g-header*/
+.g-header,.g-menu-l a,.g-header .login-btn,.g-header .icon-user,.g-header .icon-out{background:url(http://game.gtimg.cn/images/mxd2/web20160301/top-header-bg.png) no-repeat;}
+.g-header *{margin:0;padding:0;}
+.g-header img{vertical-align: bottom;}
+.g-header{background-position:0 0;background-repeat:repeat-x;height:47px;line-height:47px;z-index:9;font:12px/1.5 tahoma,"\5FAE\8F6F\96C5\9ED1",sans-serif}
+.g-header-con{padding:0 40px 0 60px;height:47px;line-height:47px}
+.g-menu-l{float:left;_display:inline;font-size:12px;overflow:hidden;}
+.g-menu-l a{float:left;_display:inline;padding:0 10px;color:#b0b0b0;background-position:left -83px;margin-left:-2px}
+.g-menu-l a:hover{color:#fff}
+.g-menu-l .hot{color:#f14827}
+.g-header .login{float:right;}
+.g-header .login-btn{position: relative;display:block;width:74px;height:32px;line-height:32px;padding-right:15px;text-align: center;color:#fff;background-position:0 -144px;margin:7px 8px 0 0}
+.g-header .icon-user{position: absolute;background-position:0 -58px;width:9px;height:13px;overflow:hidden}
+.login a{color: #5b834e;}
+.login a:hover{text-decoration: none;}
+.login-btn .icon-user{right:20px;top:9px;}
+.g-header .logout-btn{float:right;width:96px;background-position:0 -176px;margin:7px 8px 0 0}
+.g-header .icon-out{position: absolute;width:11px;height:8px;overflow:hidden;left:63px;top:12px;background-position:-9px -63px;}
+.login-text{position: relative;float:right;color:#fff;margin-right:10px;font-size:12px;}
+.login-text .icon-user{left:-15px;top:18px;}
+.top-nav-list li{float:left;_display:inline;font-size:16px;}
+.top-nav-list a,.top-nav-list span{float:left;padding:0 32px;height:60px;line-height:60px;font-size:16px;color:#6f6f6f}
+.top-nav-list a:hover,.top-nav-list .active{color:#78afe3}
+.g-menu-r{float:right;_display:inline;position: relative;z-index:999;margin-right:15px;}
+.sound-icon{position: absolute;right:0;top:18px;width:22px;height:21px;background-position:-469px 0;}
+.qr-box{padding-right:25px;}
+.qr-simg{position: absolute;top:0;left:0;overflow:hidden;margin-right:10px;padding:11px 6px 5px 6px;background:#000;background:rgba(0,0,0,.5)}
+.qr-s-txt{font-size:14px;color:#fff;float:left;_display:inline;width:65px;line-height:14px;margin:15px 0 0 70px;}
+.b-qr-box{display:none;position: absolute;top:0;right:0;width:350px;height:140px;background:#000;background:rgba(0,0,0,.6);background-image:url(http://game.gtimg.cn/images/mxd2/web20160301/main/phone-icon.png);background-position:274px 53px;background-repeat:no-repeat;}
+.qr-b-box{float:left;_display:inline;margin:10px;}
+.qr-b-box p{height:18px;line-height:18px;text-align: center;color:#fff}
+.qr-b-box img{padding:5px;background:#fff}
+.span-bind{display:none}
+</style>
+<div class="g-header">
+    <div class="g-header-con">
+        <div class="g-menu-l">
+            <a href="http://mxd2.qq.com" target="_blank">首页</a>
+            <a href="javascript:alert('块乐首测现已结束，敬请关注下次测试信息')"  target="_blank" class="hot">资格申请</a>
+            <a href="http://mxd2.qq.com/webplat/info/news_version3/22354/22355/22356/m14454/list_1.shtml" target="_blank">新闻资讯</a>
+            <a href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank" class="hot">游戏特色</a>
+            <a href="http://crm2.qq.com/page/portalpage/wpa.php?uin=40012345&f=1&ty=1&ap=000011:400789:|f:Gmxd21" target="_blank">在线客服</a>
+            <!--    <a href="http://mxd2.qq.com/video.shtml" target="_blank">视频欣赏</a>
+        -->
+        <a href="http://mxd2.qq.com/download.shtml" target="_blank">社区APP下载</a>
+        <!--<a href="" target="_blank">活动中心</a>
+    -->
+    <a href="http://mxd2.gamer.qq.com" target="_blank" >官方论坛</a>
+</div>
+
+<div class="login" id="unlogin" >
+    <a class="login-btn" href="javascript:LoginManager.login();">
+        登录
+        <span class="icon-user"></span>
+    </a>
+</div>
+<div class="login" id="logined"  style="display:none;">
+    <a class="login-btn logout-btn" href="javascript:LoginManager.logout();">
+        注销
+        <span class="icon-out"></span>
+    </a>
+    <p class="login-text">
+        <span class="icon-user"></span>
+        <span id="login_qq_span">-</span>
+        ，欢迎您！
+        <span id="spanNotBind" class="span-bind">
+            <a href="#" id="bindArea">绑定大区</a>
+        </span>
+        <span id="spanBind" class="span-bind">
+            <span id="area_info"></span>
+            <span id="role_info"></span>
+            <a href="#" id="changeBind">更改绑定</a>
+        </span>
+    </p>
+</div>
+<div class="g-menu-r">
+    <div id="qrBox" class="qr-box cf">
+        <img src="http://game.gtimg.cn/images/mxd2/web20160301/s-qc-img.jpg" alt="二维码" width="51" height="51" class="qr-simg">
+        <p class="qr-s-txt">关注更多资讯APP</p>
+        <div id="bQrbox" class="b-qr-box">
+            <div class="qr-b-box">
+                <img src="http://ossweb-img.qq.com/images/mxd2/web20160301/qc-wx.jpg" alt="冒险岛2微信公众号" width="100" height="100" />
+                <p>冒险岛2微信公众号</p>
+            </div>
+            <div class="qr-b-box">
+                <img src="http://game.gtimg.cn/images/mxd2/web20160301/qc-img.jpg" alt="冒险岛2社区" width="100" height="100" />
+                <p>冒险岛2社区</p>
+            </div>
+        </div>
+    </div>
+    <!--<span class="sound-icon"></span>
+-->
+</div>
+</div>
+</div>
+
+    <div class="content">
+        <div class="content-bg">
+            <div class="bg-warp">
+                <div class="bg-con">
+                    <div class="y-1"></div>
+                    <div class="y-2"></div>
+                    <div class="bg-cloud"></div>
+                </div>
+            </div>
+            <div class="bg-sky"></div>
+            <div class="bg-t"></div>
+            <div class="bg-b"></div>
+            <div class="g-1-box">
+                <div class="g-1"></div>
+                <span class="g-1-shadow"></span>
+            </div>
+            <div class="swimming-icon"></div>
+            <div class="mg-1">
+                <div class="mg-icon-1"></div>
+                <span class="mg-shadow-1"></span>
+            </div>
+            <div class="mg-2">
+                <div class="mg-icon-2"></div>
+                <span class="mg-shadow-2"></span>
+            </div>
+        </div>
+        <!--cont start-->
+        <div class="content-inner cf">
+            <div class="main-con">
+                <!--topBox start-->
+                <div class="top-box">
+                    <div class="logo-box">
+                        <h1 class="logo">
+                            <a href="http://mxd2.qq.com/index.shtml" title="冒险岛2官网" onclick="pgvSendClick({hottag:'main.logo'});"></a>
+                        </h1>
+                        <span class="logo-shadow"></span>
+                        <h2 class="slogan-box">冒险岛2-冒险这是我们的世界！</h2>
+                        <span class="gaga-icon"></span>
+                    </div>
+                    <div class="act-btn-box">
+                        <a href="javascript:alert('块乐首测现已结束，敬请关注下次测试信息')" class="act-btn" title="首测资格站" target="_blank" onclick="pgvSendClick({hottag:'main.actionbtn'});">
+                            <div class="act-txt-1">
+                                <span class="act-btn-icon"></span>
+                                <p class="act-btn-txt">
+                                    首测资格站
+                                    <span class="en">ACTIVITY CENTER</span>
+                                </p>
+                            </div>
+                            <div class="act-txt-2">
+                                <p class="act-btn-txt">
+                                    首测资格站
+                                    <span class="en">ACTIVITY CENTER</span>
+                                </p>
+                            </div>
+
+                        </a>
+                        <div class="act-icon"></div>
+                    </div>
+                </div>
+                <!--topBox end-->
+                <!---slider start-->
+                <div class="slider">
+                    <div id="sliderCon" class="slider-con">
+
+                    </div>
+                </div>
+                <!---slider end-->
+                <!--newsBox start-->
+                <div class="news-box">
+                    <div class="news-hd">
+                        <a href="/webplat/info/news_version3/22354/22355/22356/m14454/list_1.shtml" class="news-link on" onclick="pgvSendClick({hottag:'main.news.all'});">全部</a>
+                        <a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml" onclick="pgvSendClick({hottag:'main.news.news'});" class="news-link">新闻</a>
+                        <a href="/webplat/info/news_version3/22354/22355/22356/22358/m14454/list_1.shtml" target="_blank" onclick="pgvSendClick({hottag:'main.news.notice'});" class="news-link">公告</a>
+                        <a href="/webplat/info/news_version3/22354/22355/22356/22359/m14454/list_1.shtml" target="_blank" onclick="pgvSendClick({hottag:'main.news.event'});" class="news-link">活动</a>
+                        <a href="/webplat/info/news_version3/22354/22355/22356/22360/m14454/list_1.shtml" target="_blank" onclick="pgvSendClick({hottag:'main.news.media'});" class="news-link">媒体</a>
+                        <a href="/webplat/info/news_version3/22354/22355/22356/22361/m14454/list_1.shtml" target="_blank" onclick="pgvSendClick({hottag:'main.news.bbs'});" class="news-link">论坛</a>
+                        <a href="/webplat/info/news_version3/22354/22355/22356/m14454/list_1.shtml" class="more-link" target="_blank" onclick="pgvSendClick({hottag:'main.news.bbs'});">+</a>
+                        <span></span>
+                    </div>
+                    <div class="news-bd">
+                        <ul>
+                           <li>
+ <span class="news-icon news-icon-2"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/460867.shtml" target="_blank" title="《冒险岛2》块乐首测趣味数据" style="color:#00CFF0;font-weight:" class="news-txt">《冒险岛2》块乐首测趣味数据</a><span class="time">05/05</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-2"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/463001.shtml" target="_blank" title="《冒险岛2》块乐首测个人趣味数据揭晓" style="color:#00CFF0;font-weight:1" class="news-txt">《冒险岛2》块乐首测个人趣味数据揭晓</a><span class="time">05/11</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14454/list_1.shtml"  target="_blank" class="news-type ">媒体</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14455/201605/467855.shtml" target="_blank" title="17173穿起来萌萌哒 卫衣DIY作品赏" style="color:;font-weight:" class="news-txt">17173穿起来萌萌哒 卫衣DIY作品赏</a><span class="time">05/25</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-1"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/467795.shtml" target="_blank" title="冒险岛2社区App有奖调查获奖名单公布" style="color:#FFFF00;font-weight:" class="news-txt">冒险岛2社区App有奖调查获奖名单公布</a><span class="time">05/24</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-1"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/467389.shtml" target="_blank" title="首届周边DIY明星设计师大赛结果公布" style="color:#FFFF00;font-weight:1" class="news-txt">首届周边DIY明星设计师大赛结果公布</a><span class="time">05/24</span>
+ </li>
+<!--[if !IE]>|xGv00|7cc7224ef652eb036b195c5d01da08d1<![endif]-->
+                        </ul>
+                        <ul>
+                            <li>
+ <span class="news-icon news-icon-2"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/460867.shtml" target="_blank" title="《冒险岛2》块乐首测趣味数据" style="color:#00CFF0;font-weight:" class="news-txt">《冒险岛2》块乐首测趣味数据</a><span class="time">05/05</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-2"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/463001.shtml" target="_blank" title="《冒险岛2》块乐首测个人趣味数据揭晓" style="color:#00CFF0;font-weight:1" class="news-txt">《冒险岛2》块乐首测个人趣味数据揭晓</a><span class="time">05/11</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-1"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/467795.shtml" target="_blank" title="冒险岛2社区App有奖调查获奖名单公布" style="color:#FFFF00;font-weight:" class="news-txt">冒险岛2社区App有奖调查获奖名单公布</a><span class="time">05/24</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-1"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/467389.shtml" target="_blank" title="首届周边DIY明星设计师大赛结果公布" style="color:#FFFF00;font-weight:1" class="news-txt">首届周边DIY明星设计师大赛结果公布</a><span class="time">05/24</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14454/list_1.shtml"  target="_blank" class="news-type ">新闻</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22357/m14455/201605/464706.shtml" target="_blank" title="首届周边DIY设计大赛投票开启！" style="color:;font-weight:" class="news-txt">首届周边DIY设计大赛投票开启！</a><span class="time">05/16</span>
+ </li>
+<!--[if !IE]>|xGv00|7b53d166811cc7a6fc8c5a798748cb30<![endif]-->
+                        </ul>
+                        <ul>
+                              <li>
+ <span class="news-icon news-icon-1"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14454/list_1.shtml"  target="_blank" class="news-type ">公告</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14455/201605/467795.shtml" target="_blank" title="冒险岛2社区App有奖调查获奖名单公布" style="color:#FFFF00;font-weight:" class="news-txt">冒险岛2社区App有奖调查获奖名单公布</a><span class="time">05/24</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-1"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14454/list_1.shtml"  target="_blank" class="news-type ">公告</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14455/201605/467389.shtml" target="_blank" title="首届周边DIY明星设计师大赛结果公布" style="color:#FFFF00;font-weight:1" class="news-txt">首届周边DIY明星设计师大赛结果公布</a><span class="time">05/24</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-1"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14454/list_1.shtml"  target="_blank" class="news-type ">公告</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14455/201604/458230.shtml" target="_blank" title="块乐首测"冒险排行"获奖名单公布" style="color:#FFFFFF;font-weight:0" class="news-txt">块乐首测"冒险排行"获奖名单公布</a><span class="time">04/28</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14454/list_1.shtml"  target="_blank" class="news-type ">公告</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14455/201604/456896.shtml" target="_blank" title="《冒险岛2》块乐首测圆满结束公告" style="color:#00CFF0;font-weight:1" class="news-txt">《冒险岛2》块乐首测圆满结束公告</a><span class="time">04/27</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14454/list_1.shtml"  target="_blank" class="news-type ">公告</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22358/m14455/201604/455966.shtml" target="_blank" title="有奖创建角色活动 幸运玩家名单公布" style="color:#FFFFFF;font-weight:0" class="news-txt">有奖创建角色活动 幸运玩家名单公布</a><span class="time">04/25</span>
+ </li>
+<!--[if !IE]>|xGv00|c6e991faf2aa120a5066d3c9820e1fe3<![endif]-->
+                        </ul>
+                        <ul>
+                            <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14454/list_1.shtml"  target="_blank" class="news-type ">活动</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14455/201605/464706.shtml" target="_blank" title="首届周边DIY设计大赛投票开启！" style="color:;font-weight:" class="news-txt">首届周边DIY设计大赛投票开启！</a><span class="time">05/16</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14454/list_1.shtml"  target="_blank" class="news-type ">活动</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14455/201605/462152.shtml" target="_blank" title="周边DIY作品抢先看 招募倒计时" style="color:;font-weight:" class="news-txt">周边DIY作品抢先看 招募倒计时</a><span class="time">05/10</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14454/list_1.shtml"  target="_blank" class="news-type ">活动</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14455/201605/461295.shtml" target="_blank" title="《冒险岛2》广场舞？笑出腹肌的鬼畜舞蹈" style="color:;font-weight:0" class="news-txt">《冒险岛2》广场舞？笑出腹肌的鬼畜舞蹈</a><span class="time">05/06</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14454/list_1.shtml"  target="_blank" class="news-type ">活动</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14455/201605/461097.shtml" target="_blank" title="“冒险岛2社区”App有奖调查进行中" style="color:#FFFF00;font-weight:0" class="news-txt">“冒险岛2社区”App有奖调查进行中</a><span class="time">05/06</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-1"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14454/list_1.shtml"  target="_blank" class="news-type ">活动</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22359/m14455/201604/457914.shtml" target="_blank" title="《冒险岛2》首届周边DIY明星设计师招募开启" style="color:#FFFF00;font-weight:1" class="news-txt">《冒险岛2》首届周边DIY明星设计师招募开启</a><span class="time">04/28</span>
+ </li>
+<!--[if !IE]>|xGv00|673bf6cb45b3d93d3f34aec0fcb4169a<![endif]-->
+                        </ul>
+                        <ul>
+                              <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14454/list_1.shtml"  target="_blank" class="news-type ">媒体</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14455/201605/467855.shtml" target="_blank" title="17173穿起来萌萌哒 卫衣DIY作品赏" style="color:;font-weight:" class="news-txt">17173穿起来萌萌哒 卫衣DIY作品赏</a><span class="time">05/25</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14454/list_1.shtml"  target="_blank" class="news-type ">媒体</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14455/201605/466863.shtml" target="_blank" title="17173首测趣味数据 Boss达成万人斩" style="color:;font-weight:" class="news-txt">17173首测趣味数据 Boss达成万人斩</a><span class="time">05/23</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14454/list_1.shtml"  target="_blank" class="news-type ">媒体</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14455/201605/461492.shtml" target="_blank" title="17173首届服装设计大赛作品展示" style="color:;font-weight:" class="news-txt">17173首届服装设计大赛作品展示</a><span class="time">05/09</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14454/list_1.shtml"  target="_blank" class="news-type ">媒体</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14455/201605/459883.shtml" target="_blank" title="《冒险岛2》评测 用方块创造快乐" style="color:;font-weight:" class="news-txt">《冒险岛2》评测 用方块创造快乐</a><span class="time">05/04</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14454/list_1.shtml"  target="_blank" class="news-type ">媒体</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22360/m14455/201605/459840.shtml" target="_blank" title="《冒险岛2》试玩细数冒险岛的前世今生" style="color:;font-weight:" class="news-txt">《冒险岛2》试玩细数冒险岛的前世今生</a><span class="time">05/04</span>
+ </li>
+<!--[if !IE]>|xGv00|6dbb11bc3567a44ce13c374b26b58b1d<![endif]-->
+                        </ul>
+                        <ul>
+                               <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22361/m14454/list_1.shtml"  target="_blank" class="news-type ">论坛</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22361/m14455/201604/455564.shtml" target="_blank" title="向暖解说百变DIY服装制作详解" style="color:;font-weight:" class="news-txt">向暖解说百变DIY服装制作详解</a><span class="time">04/23</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22361/m14454/list_1.shtml"  target="_blank" class="news-type ">论坛</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22361/m14455/201604/450183.shtml" target="_blank" title="冒险岛2周边调查获奖名单公布" style="color:#FFFF00;font-weight:" class="news-txt">冒险岛2周边调查获奖名单公布</a><span class="time">04/08</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22361/m14454/list_1.shtml"  target="_blank" class="news-type ">论坛</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22361/m14455/201604/448271.shtml" target="_blank" title="《冒险岛2》玩家团招募!" style="color:;font-weight:" class="news-txt">《冒险岛2》玩家团招募!</a><span class="time">04/01</span>
+ </li>
+ <li>
+ <span class="news-icon news-icon-0"></span>
+<a href="/webplat/info/news_version3/22354/22355/22356/22361/m14454/list_1.shtml"  target="_blank" class="news-type ">论坛</a>
+<a href="/webplat/info/news_version3/22354/22355/22356/22361/m14455/201604/448057.shtml" target="_blank" title="《冒险岛2》块乐首测资格查询开放！" style="color:#FFFF00;font-weight:1" class="news-txt">《冒险岛2》块乐首测资格查询开放！</a><span class="time">04/01</span>
+ </li>
+<!--[if !IE]>|xGv00|cc3a6e2d90839a472cfb26c520eb88d5<![endif]-->
+                        </ul>
+                    </div>
+                </div>
+                <!--newsBox end-->
+                <!--game start-->
+                <div class="feature">
+                    <a href="#" class="f-btn-l"></a>
+                    <a href="#" class="f-btn-r"></a>
+                    <div class="feature-icon-box">
+                        <a href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank" class="feature-icon-1 on"  onclick="pgvSendClick({hottag:'main.feature.icon1'});"></a>
+                        <a href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank" class="feature-icon-2" onclick="pgvSendClick({hottag:'main.feature.icon2'});"></a>
+                     <!--    <a href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank" class="feature-icon-3" onclick="pgvSendClick({hottag:'main.feature.icon3'});"></a>
+                        <a href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank" class="feature-icon-4" onclick="pgvSendClick({hottag:'main.feature.icon4'});"></a>
+                        <a href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank" class="feature-icon-5" onclick="pgvSendClick({hottag:'main.feature.icon5'});"></a>
+                        <a href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank" class="feature-icon-6" onclick="pgvSendClick({hottag:'main.feature.icon6'});"></a> -->
+                    </div>
+                    <div class="feature-txt-box">
+                        <a  href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank"class="feature-txt-1 on"  onclick="pgvSendClick({hottag:'main.feature.txt1'});">冒险特色站</a>
+                        <a  href="http://mxd2.qq.com/webplat/info/news_version3/22354/22355/22356/22357/m14455/201604/452576.shtml" target="_blank"class="feature-txt-2" onclick="pgvSendClick({hottag:'main.feature.txt2'});">块乐首测计划表</a>
+                        <!-- <a  href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank"class="feature-txt-3" onclick="pgvSendClick({hottag:'main.feature.txt3'});">百变DIY 极致个性随心创造</a>
+                        <a  href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank"class="feature-txt-4" onclick="pgvSendClick({hottag:'main.feature.txt4'});">冒险家园 释放想像重塑空间</a>
+                        <a  href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank"class="feature-txt-5" onclick="pgvSendClick({hottag:'main.feature.txt5'});">MINI游戏 奇趣比拼乐享竞技</a>
+                        <a  href="http://mxd2.qq.com/cp/a20160321feature/" target="_blank"class="feature-txt-6" onclick="pgvSendClick({hottag:'main.feature.txt6'});">大冒险家 冒险家集结中</a> -->
+                    </div>
+                </div>
+                <!--game end--> </div>
+            <!--bar start-->
+            <div class="bar-con">
+                <div class="download-box">
+                    <a href="http://mxd2.qq.com/download.shtml" target="_blank" class="download-btn" onclick="pgvSendClick({hottag:'main.nav.download'});">
+                        <div class="download-txt-1">
+                            <p class="download-txt">APP下载</p>
+                            <p class="download-en">DOWNLOAD</p>
+                        </div>
+                        <div class="download-txt-2">
+                            <p class="download-icon"></p>
+                            <p class="download-p">社区APP下载</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="obtain-box">
+                    <a href="javascript:alert('块乐首测现已结束，敬请关注下次测试信息')"  class="bar-nav-link-t" target="_blank" onclick="pgvSendClick({hottag:'main.nav.obtain'});">
+                        <div class="bar-txt-1">
+                            <span class="bar-nav-icon bar-nav-icon-1"></span>
+                            <p class="bar-nav-txt">
+                                获取首测资格
+                                <span class="en">OBTAIN</span>
+                            </p>
+                        </div>
+                        <div class="bar-txt-2">
+                            <p class="bar-nav-txt">
+                                获取首测资格
+                                <span class="en">OBTAIN</span>
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div class="zg-box">
+                    <a href="javascript:alert('块乐首测现已结束，敬请关注下次测试信息')"  class="bar-nav-link-t" onclick="pgvSendClick({hottag:'main.nav.quest'});">
+                        <div class="bar-txt-1">
+                            <span class="bar-nav-icon bar-nav-icon-2"></span>
+                            <p class="bar-nav-txt">
+                                首测资格查询
+                                <span class="en">QUESTIONNAIRE</span>
+                            </p>
+                        </div>
+                        <div class="bar-txt-2">
+                            <p class="bar-nav-txt">
+                                首测资格查询
+                                <span class="en">QUESTIONNAIRE</span>
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div class="forum-btn">
+                    <a href="http://mxd2.gamer.qq.com" class="bar-nav-link-v" target="_blank" onclick="pgvSendClick({hottag:'main.nav.bbs'});" >
+                        <span class="bar-nav-icon b-n-icon-4"></span>
+                        <p class="bar-nav-txt">
+                            官方论坛
+                            <span class="en">BBS</span>
+                        </p>
+                        <span class="bar-nav-icon-bg b-n-bg-4"></span>
+                    </a>
+                </div>
+                <div class="video-box">
+                    <a href="http://mxd2.qq.com/video.shtml" target="_blank" class="bar-nav-link-v" onclick="pgvSendClick({hottag:'main.nav.video'});">
+                        <span class="bar-nav-icon b-n-icon-3"></span>
+                        <p class="bar-nav-txt">
+                            视听盛宴
+                            <span class="en">VIDEO CENTER</span>
+                        </p>
+                        <span class="bar-nav-icon-bg b-n-bg-3"></span>
+                    </a>
+                </div>
+            </div>
+            <!--bar end-->
+            <div class="car">
+                <span class="car-icon-1"></span>
+                <span class="car-icon-2"></span>
+                <span class="car-icon-3"></span>
+                <span class="car-shadow"></span>
+            </div>
+             <div class="man">
+               <span class="man-1"></span>
+               <span class="man-2"></span>
+               <span class="man-3"></span>
+               <span class="man-4"></span>
+              <span class="man-shadow"></span>
+            </div>
+        </div>
+        <!--cont end-->
+        <div class="content-inner bottom-content-inner">
+            <div class="media-box">
+                <div class="media-hd">
+                    媒体合作
+                    <p class="en">Media cooperation</p>
+                </div>
+                <div class="media-bd">
+                    <div class="med-links" id="med1">
+                        <span class="med-arr"></span>
+                        <div class="med-l-txt">查看详情</div>
+                        <ul>
+                            <li>
+                                <a target="_blank" href="http://mxd2.17173.com" onclick="pgvSendClick({hottag:'main.med.17173'});">17173</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="http://newgame.duowan.com/ku/2135.html" onclick="pgvSendClick({hottag:'main.med.duowan'});">多玩</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="http://mxd2.178.com" onclick="pgvSendClick({hottag:'main.med.178'});">178</a>
+                            </li>
+                             <li>
+                                <a target="_blank" href="http://mxd2.52pk.com" onclick="pgvSendClick({hottag:'main.med.52pk'});">52PK</a>
+                            </li>
+                             <li>
+                                <a target="_blank" href="http://mxd2.tgbus.com" onclick="pgvSendClick({hottag:'main.med.tgbus'});">电玩巴士</a>
+                            </li>
+<li>
+                                <a target="_blank" href="http://wangyou.pcgames.com.cn/zhuanti/mxd2/" onclick="pgvSendClick({hottag:'main.med.pcgames'});">太平洋游戏</a>
+                            </li>
+<li>
+                                <a target="_blank" href="http://mxd2.te5.com/" onclick="pgvSendClick({hottag:'main.med.te5'});">特玩网</a>
+                            </li>
+<li>
+                                <a target="_blank" href="http://ol.gamersky.com/z/maplestory2/" onclick="pgvSendClick({hottag:'main.med.gamersky'});">游民星空</a>
+                            </li>
+<li>
+                                <a target="_blank" href="http://bbs.colg.cn/forum-426-1.html" onclick="pgvSendClick({hottag:'main.med.colg'});">COLG</a>
+                            </li>
+<li>
+                                <a target="_blank" href="http://wiki.joyme.com/mxd2/%E9%A6%96%E9%A1%B5" onclick="pgvSendClick({hottag:'main.med.joyme'});">着迷网</a>
+                            </li>
+<li>
+                                <a target="_blank" href="http://bbs.nga.cn/thread.php?fid=515" onclick="pgvSendClick({hottag:'main.med.nga'});">NGA玩家社区</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="tree-box">
+                <span class="tree-icon"></span>
+                <span class="tree-icon"></span>
+                <span class="tree-icon"></span>
+                <span class="tree-icon"></span>
+                <span class="tree-icon"></span>
+            </div>
+        </div>
+    </div>
+    <div class="g-footer">
+	<div class="footer-con">
+		<p class="f-logo">
+			<a href="http://game.qq.com/index.shtml" target="_blank" class="tglogo">腾讯互动娱乐</a>
+			<a href="#" class="nxlogo">NEXON</a>
+		</p>
+		<p class="footer-link cf">
+			<a href="http://ieg.tencent.com/" target="_blank">腾讯互动娱乐</a>
+			<span>|</span>
+			<a href="http://game.qq.com/contract.shtml" target="_blank">服务条款</a>
+			<span>|</span>
+			<a href="http://adver.qq.com/" target="_blank">广告服务</a>
+			<span>|</span>
+			<a href="http://game.qq.com/hr/" target="_blank">腾讯游戏招聘</a>
+			<span>|</span>
+			<a href="http://service.qq.com/" target="_blank">腾讯游戏客服</a>
+			<span>|</span>
+			<a href="http://game.qq.com/portal2010/business.htm" target="_blank">商务合作</a>
+			<span>|</span>
+			<a href="http://game.qq.com/gnav/" target="_blank">游戏地图</a>
+			<span>|</span>
+			<a href="http://tgact.qq.com/?g=lol" target="_blank">游戏活动</a>
+			<span>|</span>
+			<a href="http://www.qq.com/" target="_blank">腾讯网</a>
+			<span>|</span>
+			<a href="http://www.qq.com/map/" target="_blank">网站导航</a>
+		</p>
+		<p class="e">
+			COPYRIGHT &copy; 1998 – 2016 TENCENT. ALL RIGHTS RESERVED.
+			<a href="http://www.tencent.com/law/mo_law.shtml?/law/copyright.htm" target="_blank" class="copyright">腾讯公司版权所有</a>
+		</p>
+		<p>
+			Copyright &copy;  2016 NEXON Korea Corporation.  Licensed to Tencent Inc. in China
+		</p>
+		<p class="m">
+			<a href="http://www.qq.com/culture.shtml" target="_blank">粤网文[2014]0633-233号</a>
+			<span>|</span>
+			<a href="http://game.qq.com/culture2.htm" target="_blank">新出网证（粤）字010号</a>
+		</p>
+	</div>
+</div>
+    <div id="player_box">
+        <div onclick="vplay_close();" class="close-btn">
+            <span>×</span>
+        </div>
+        <div id="player"></div>
+    </div>
+    <script>
+ timePoints.push(new Date());
+</script>
+
+ <script src="http://ossweb-img.qq.com/images/js/jquery/jquery-1.11.1.min.js"></script>
+    <script>
+amsCfg_242425 = {
+    "iActivityId": 45735, //活动id
+    "iFlowId":    242425, //流程id
+    "fFlowSubmitEnd": function(res){
+        if(res.sOutValue1==1){
+            alert(' Hi 冒险家，恭喜你获得《冒险岛2》块乐首测资格！\n 4月18日冒险启航！');
+        }else{
+            alert(' 很遗憾，该账号暂未获得《冒险岛2》块乐首测资格\n 首测资格会陆续分批发放，请稍后再来查询哦！\n 请多多关注官方网站、官方论坛、官方微信微博的首测资格发放活动哦！');
+        }
+        return;
+    }
+};
+$(function() {
+    $(".news-box").tab({
+        model: "mouseenter",
+        hd: ".news-hd .news-link",
+        bd: ".news-bd ul",
+        hdActiveCls: 'on',
+        arrow: true,
+        arrowName: ".news-hd span"
+    });
+    feature();
+    newTyep();
+    qrBox();
+    med();
+    $.getScript("http://game.qq.com/time/qqadv/Info_new_14980.js?ran=" + ramdom, function() {
+        gg([{
+            sr: "14399,14400,14401,14402,14403",
+            id: "sliderCon",
+            pvg: "main.banner.ad"
+        }])
+        loadroll("bannerImgsliderCon", "bannerCtrlsliderCon");
+    });
+    $.getScript("http://ossweb-img.qq.com/images/js/milo/milo-min.js", function() {
+         $.getScript("http://ossweb-img.qq.com/images/ams/atm/reporting.js?action=45735", function() {
+    need("biz.login-min",function(LoginManager){
+        LoginManager.checkLogin(function(){
+            g("login_qq_span").innerHTML = LoginManager.getUserUin();//获取QQ号
+        });
+    });
+
+                $("#zgBtn").on("click",function(){
+                    amsSubmit(45735,242425);
+                    return false;
+                })
+          })
+    })
+    /*$.getScript("http://ossweb-img.qq.com/images/js/comm/showDialog.min.js", function() {
+        $("#videoPlay").on("click", function() {
+            vplay('player', 'n0190xae8gg', 1);
+        });
+    })*/
+    $.getScript("http://tajs.qq.com/stats?sId=54709507", function() {
+        $.getScript("http://pingjs.qq.com/ping_tcss_ied.js", function() {
+            if (typeof(pgvMain) == 'function') {
+                pgvMain();
+            };
+        });
+    })
+    $.getScript("http://ossweb-img.qq.com/images/js/title.js", function() {
+        ostb_int();
+    });
+    timePoints.push(new Date());
+    report([7718, 227, 1]);
+
+});
+
+
+
+function feature() {
+    var btnL = $(".f-btn-l"),
+        btnR = $(".f-btn-r"),
+        fIcon = $(".feature-icon-box a"),
+        fText = $(".feature-txt-box a"),
+        idx = 0,
+        len = fIcon.length;
+    btnL.on("click", function() {
+        idx = idx-- <= 0 ? len - 1 : idx--;
+        featureShow(idx);
+        return false
+    })
+    btnR.on("click", function() {
+        idx = idx++ >= len - 1 ? 0 : idx;
+        featureShow(idx);
+        return false
+    });
+    var featureShow = function(idx) {
+        fIcon.eq(idx).addClass("on").siblings().removeClass("on");
+        fText.eq(idx).addClass("on").siblings().removeClass("on");
+    }
+    var auto = setInterval(function() {
+        idx = idx++ >= len - 1 ? 0 : idx;
+        featureShow(idx);
+    }, 5000);
+    $(".feature").on("mouseenter", function() {
+        clearInterval(auto);
+    }).on("mouseleave", function() {
+        auto = setInterval(function() {
+            idx = idx++ >= len - 1 ? 0 : idx;
+            featureShow(idx);
+        }, 5000);
+    })
+}
+
+function newTyep() {
+    $(".news-type").each(function() {
+        var _this = $(this);
+        var txt = _this.text();
+        switch (txt) {
+            case '新闻':
+                _this.addClass("news-type-1");
+                break;
+            case '公告':
+                _this.addClass("news-type-2");
+                break;
+            case '活动':
+                _this.addClass("news-type-3");
+                break;
+            case '媒体':
+                _this.addClass("news-type-4");
+                break;
+            case '论坛':
+                _this.addClass("news-type-5");
+                break;
+        }
+    })
+}
+
+function qrBox() {
+    var qrBox = $("#qrBox"),
+        bQrbox = $("#bQrbox");
+    qrBox.on("mouseenter", function() {
+        bQrbox.show();
+    }).on("mouseleave", function() {
+        bQrbox.hide();
+    })
+}
+
+function med() {
+    var med = $("#med1");
+    med.on("mouseenter", function() {
+        med.find("ul").show()
+    }).on("mouseleave", function() {
+        med.find("ul").hide()
+    })
+}
+var showLayer = function(pid) {
+    showDialog.show({
+        id: pid + "_box",
+        bgcolor: "#000",
+        opacity: 80
+    })
+}
+
+
+function video_play(vid, autoplay, id) {
+    document.getElementById(id).style.width = 640 + "px";
+    document.getElementById(id).style.height = 400 + "px";
+    document.getElementById(id).innerHTML = '<object id=tenvideo_flash_player_1403119131105 classid=clsid:d27cdb6e-ae6d-11cf-96b8-444553540000 width=640 height=400><param name="_cx" value="25002"><param name="_cy" value="14605"><param name="FlashVars" value="vid=' + vid + '&amp;tpid=0&amp;showend=0&amp;showcfg=1&amp;searchbar=0&amp;skin=http://imgcache.qq.com/minivideo_v1/vd/res/skins/TencentPlayerMiniSkin.swf&amp;shownext=1&amp;list=2&amp;autoplay=1"><param name="Movie" value="http://imgcache.qq.com/tencentvideo_v1/player/TPout.swf?max_age=86400&amp;v=20140615"><param name="Src" value="http://imgcache.qq.com/tencentvideo_v1/player/TPout.swf?max_age=86400&amp;v=20140615"><param name="WMode" value="Direct"><param name="Play" value="-1"><param name="Loop" value="-1"><param name="Quality" value="High"><param name="SAlign" value="LT"><param name="Menu" value="-1"><param name="Base" value=""><param name="AllowScriptAccess" value="always"><param name="Scale" value="NoScale"><param name="DeviceFont" value="0"><param name="EmbedMovie" value="0"><param name="BGColor" value=""><param name="SWRemote" value=""><param name="MovieData" value=""><param name="SeamlessTabbing" value="1"><param name="Profile" value="0"><param name="ProfileAddress" value=""><param name="ProfilePort" value="0"><param name="AllowNetworking" value="all"><param name="AllowFullScreen" value="true"><embed wmode="direct" flashvars="vid=' + vid + '&amp;tpid=0&amp;showend=0&amp;showcfg=1&amp;searchbar=0&amp;skin=http://imgcache.qq.com/minivideo_v1/vd/res/skins/TencentPlayerMiniSkin.swf&amp;shownext=1&amp;list=2&amp;autoplay=1" src="http://imgcache.qq.com/tencentvideo_v1/player/TPout.swf?max_age=86400&amp;v=20140615" quality="high" name="tenvideo_flash_player_1403117473562" id="tenvideo_flash_player_1403117473562" bgcolor="#000000" width=640 height=400 align="middle" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" pluginspage="http://get.adobe.com/cn/flashplayer/"></object>';
+
+}
+
+function vplay(pid, vid, auto) {
+    video_play(vid, auto, pid);
+    showLayer(pid);
+}
+
+function vplay_close() {
+    showDialog.hide();
+    document.getElementById("player").innerHTML = "";
+}
+//tab
+$.fn.extend({
+    "tab": function(options) {
+        var defaults = {
+            model: "click",
+            hd: null,
+            bd: null,
+            hdActiveCls: 'active',
+            arrow: false,
+            arrowName: "arr",
+            fade: false
+        };
+        var options = $.extend(defaults, options);
+        return this.each(function() {
+            var $el = $(this);
+            $el.find(options.bd).not($el.find(options.bd).eq(0)).hide();
+            $el.on(options.model, options.hd, function() {
+                if ($(this).hasClass(options.hdActiveCls)) {
+                    return false;
+                }
+                var idx = $(this).index();
+                $(this).addClass(options.hdActiveCls).siblings().removeClass(options.hdActiveCls);
+                if (options.fade == true) {
+                    $el.find(options.bd).eq(idx).fadeIn().siblings(options.bd).hide();
+                } else {
+                    $el.find(options.bd).eq(idx).show().siblings(options.bd).hide();
+                }
+                if (options.arrow == true) {
+                    var thisL = $(this).position().left;
+                    var thisMW = $(this).outerWidth(true);
+                   var thisW = $(this).innerWidth();
+                    var arrowW = $(options.arrowName).outerWidth();
+                    $(options.arrowName).stop().animate({
+                      "left": thisL+(thisMW-thisW) -((arrowW - thisW) / 2 )
+                    }, 200);
+                }
+                return false;
+            });
+        })
+    }
+});
+
+function setOpacity(e, t) {
+    e.filters ? e.style.filter = "alpha(opacity=" + t + ")" : e.style.opacity = t / 100
+}
+
+function fadeIn(e, t) {
+    e.style.display = e.$oldDisplay || "", setOpacity(e, 0);
+    for (var n = 0; 100 >= n; n += .5) ! function() {
+        var a = n;
+        setTimeout(function() {
+            setOpacity(e, a)
+        }, (a + 1) * t)
+    }()
+}
+
+function loadroll(e, t) {
+    var n = 8000,
+        a = document.getElementById(e),
+        i = document.getElementById(t),
+        o = a.getElementsByTagName("a");
+    for (var s = i.getElementsByTagName("a"), d = 0, r = setInterval(funSetime = function() {
+                    d++,
+                    d >= o.length && (d = 0),
+                        l(d, 0)
+                },
+                n), l = function(e, t) {
+                for (var n = (o[e].firstChild, s.length - 1); n >= 0; n--) s[n].className = "",
+                    o[n].className = "s" == o[n].className ? "ss" : "h";
+                s[e].className = "on",
+                    1 == t ? fadeIn(o[e], 0) : fadeIn(o[e], 10),
+                    o[e].className = "s"
+            },
+            c = s.length - 1; c >= 0; c--) o[c].cnt = s[c].cnt = c,
+        o[c].onfocus = function() {
+            this.blur()
+        },
+        o[c].onmouseover = function() {
+            s[this.cnt].className = "on";
+            clearInterval(r);
+        },
+        o[c].onmouseout = function() {
+            s[this.cnt].className = "on";
+            d = this.cnt,
+                r = setInterval(funSetime = function() {
+                        d++,
+                        d >= o.length && (d = 0),
+                            l(d, 0)
+                    },
+                    n)
+        },
+        s[c].onmouseover = function() {
+            clearInterval(r),
+                "on" != this.className && l(this.cnt, 1);
+            s[this.cnt].className = "on"
+        },
+        s[c].onfocus = function() {
+            this.blur()
+        },
+        s[c].onmouseout = function() {
+            s[this.cnt].className = "on";
+            d = this.cnt,
+                r = setInterval(funSetime = function() {
+                        d++,
+                        d >= o.length && (d = 0),
+                            l(d, 0)
+                    },
+                    n)
+        };
+    o[0].className = "s",
+        s[0].className = "on"
+}
+
+var ramdom = String(new Date()).split(":")[1]
+var gg = function(i) {
+    var m = function(i) {
+        var ai = {
+            box: $('#' + i.id),
+            sr: String(i.sr).split(","),
+            pos: oDaTaNew14980
+        };
+        var l = ['<div id="bannerImg' + i.id + '"+ class="slider-img">'],
+            s = ['<div class="slider-dot" id="bannerCtrl' + i.id + '">'],
+            len = ai.sr.length,
+            pre = i.pvg,
+            u = 'http://ossweb-img.qq.com/upload/adw/';
+        for (var i = 0; i < len; i++) {
+            try {
+                var c = ai.pos["pos" + ai.sr[i]];
+                l.push('<a target="_blank" onclick="pgvSendClick({hottag:\'' + pre + (i + 1) + '\'});" href="' + c[1] + '" title="' + decodeURIComponent(c[0]) + '" ><img alt="" src="' + u + c[2] + '" width="' + c[3] + '" height="' + c[4] + '" \/></a>');
+                s.push('<a class="dot-item" target="_blank" href="' + c[1] + '" onclick="pgvSendClick({hottag:\'' + pre + (i + 1) + '\'});">' + decodeURIComponent(c[0]) + '<\/a>');
+            } catch (err) {
+            }
+        }
+        ai.box.html(l.join("") + "<\/div>" + s.join("") + "<\/div>")
+    };
+    return function(ad) {
+        for (var i = ad.length; i--;) {
+            m(ad[i])
+        }
+    }
+}();
+
+function report(pids) {
+    var s = [];
+    s.push("flag1=" + pids[0] + "&flag2=" + pids[1] + "&flag3=" + pids[2]);
+    for (var i = 0; i < timePoints.length; i++) {
+        if (!!timePoints[i])
+            s.push((i + 1) + "=" + (timePoints[i] - d0));
+    }
+    var url = "http://isdspeed.qq.com/cgi-bin/r.cgi?" + s.join("&");
+    if (Math.random() < 0.3) {
+        imgSendTimePoint = new Image();
+        imgSendTimePoint.src = url;
+    }
+}
+
+</script>
+
+</body>
+</html><!--[if !IE]>|xGv00|5ed656733c1407bfd4f1753abe1f2639<![endif]-->
